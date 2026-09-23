@@ -11,3 +11,9 @@ Resistor 1K ohms = C40 --> C41
 Resistor 1K ohms = C43 --> C44
 Resistor 1K ohms = C46 --> C47
 
+Jumper Wire = I2 --> C52
+Jumper Wire = H2 --> C51
+Jumper Wire = G2 --> B29
+Jumper Wire = C8 --> B41
+Jumper Wire = C9 --> D44
+Jumper Wire = C10 --> D47
