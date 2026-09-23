@@ -26,6 +26,8 @@ Built with an **ESP32 DevKit V1**, breadboard, LEDs, resistors, and jumper wires
 
 The complete wiring and source code are included in this repository.
 
+Use the latest release to rebuild it https://github.com/ssh-ak74/esp32-led-thing/releases/tag/esp32
+
 ## Open Source
 
 Made open-source because if I build it, you should be able to see how it works.
