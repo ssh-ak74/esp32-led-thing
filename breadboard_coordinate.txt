@@ -1,0 +1,13 @@
+ESP32 = B to J from 1 to 15
+
+RED LED = anode (+) = A30
+          cathode (-) = A29
+GREEN LED = anode (+) = A33
+            cathode (-) = A32
+BLUE LED = anode (+) = A36
+          cathode (-) = A35
+
+Resistor 1K ohms = C40 --> C41
+Resistor 1K ohms = C43 --> C44
+Resistor 1K ohms = C46 --> C47
+
